@@ -1,8 +1,15 @@
-# new_app_check
+# License Plate Recognition Flutter
 
 A new Flutter project.
 
 ## Getting Started
+
+soucre file apk : build\app\outputs\apk\release\app-release.apk 
+
+
+code check : 
++ 30A12345
++ 51F88888
 
 This project is a starting point for a Flutter application.
 
