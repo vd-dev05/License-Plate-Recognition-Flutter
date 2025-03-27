@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-soucre file apk : build\app\outputs\apk\release\app-release.apk 
+file apk : app-release.apk (android)
 
 
 code check : 
